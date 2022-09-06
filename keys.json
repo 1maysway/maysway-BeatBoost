@@ -1,4 +1,9 @@
 {
-    "lans": ["1"],
-    "chtdds": ["2"]
+    "lans": ["79021593540:RL_BeyWuK9Yqx9uzT87xAeAg9FPes719Es1NZM9r", "89021593540:yKC7y3BqKszTSP7hn1Xc8ze6sCmsiK-RFtx6sNzD", "89021593540:yb46up2p7zLZxm_HKTTtZ6xGeLxwfg5A1i4yXJRU"],
+    "dds": {
+        "bstChannel": "-1001700159175",
+        "reportChat": "-1001523814781",
+        "reportChannel": "-1001743027571",
+        "bstChat": "-1001629362479"
+    }
 }
