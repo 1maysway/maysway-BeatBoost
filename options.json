@@ -27,5 +27,8 @@
         "reportChannel": "-1001743027571",
         "bstChat": "-1001629362479"
     }
-  }
+  },
+ "historyOverLimits": {
+   "raportChat": "100"
+ }
 }
