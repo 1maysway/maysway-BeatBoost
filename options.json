@@ -32,7 +32,7 @@
     }
   },
  "historyOverLimits": {
-   "raportChat": "100",
-   "bstChannel": "50"
+   "raportChat": 100,
+   "bstChannel": 50
  }
 }
