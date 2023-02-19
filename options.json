@@ -21,12 +21,14 @@
              "89021593540:AaqZQJgqmajvhtzSMbwU6BK-9M2fgYeE9xyLo5Pd",
              "89021593540:9Pyb_ZSAgvJtXaBCxzPbM6ecXZwxQzismka_k6Yb",
              "89021593540:w4oe9g4454SZjPiCexhdVHs6ziMHAr1axGceJhz8",
-             "89021593540:5AFou-ZcsdzTAqW7xAsAjTS16kYV7sC9Aq2eNHmt",
-             "79916679485:cm9sfaBNCg8-wEgUGJxZABnNYpMEwtQ2ZKUyGbK4",
-             "79916679485:RvghSMSxb7rarch8xKSF1N2XksajUHF2Fx_RZm2x",
-             "79916679485:XM5hxzHw2uyY3S3wnPfZoF2G8FzYem4Sjx9Ryjzj",
-             "79916679485:XbugYuWEbq3cWjwh5wsAUx2xHAGT6TYRZE_uFFLE"
+             "89021593540:5AFou-ZcsdzTAqW7xAsAjTS16kYV7sC9Aq2eNHmt"
             ],
+   "otherlans": [
+      "79916679485:cm9sfaBNCg8-wEgUGJxZABnNYpMEwtQ2ZKUyGbK4",
+      "79916679485:RvghSMSxb7rarch8xKSF1N2XksajUHF2Fx_RZm2x",
+      "79916679485:XM5hxzHw2uyY3S3wnPfZoF2G8FzYem4Sjx9Ryjzj",
+      "79916679485:XbugYuWEbq3cWjwh5wsAUx2xHAGT6TYRZE_uFFLE"
+    ],
     "dds": {
         "bstChannel": "-1001700159175",
         "reportChat": "-1001523814781",
