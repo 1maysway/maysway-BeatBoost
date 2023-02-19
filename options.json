@@ -1,43 +1,41 @@
 {
-  version: {
-    version: "1.2.2",
+ "version" : 
+  {
+    "version" : "1.2.2"
   },
-  ariaLabelsForLike: {
-    labels: ["Видео", "Video", "Відео", "понравилось", "Like", "Подобається"],
+ "ariaLabelsForLike":
+  {
+    "labels":["Видео", "Video", "Відео", "понравилось", "Like", "Подобається"]
   },
-  boostTime: {
-    startTime: "20:15:00",
-    endTime: "23:00:00",
+ "boostTime":
+  {
+    "startTime": "20:15:00",
+    "endTime":"23:00:00"
   },
-  keys: {
-    lans: [
-      "79021593540:RL_BeyWuK9Yqx9uzT87xAeAg9FPes719Es1NZM9r",
-      "89021593540:yb46up2p7zLZxm_HKTTtZ6xGeLxwfg5A1i4yXJRU",
-      "89021593540:WnegfnxMkUcy42y5N5zLsG5N-5-H5-ddzp38vsGY",
-      "89021593540:AaqZQJgqmajvhtzSMbwU6BK-9M2fgYeE9xyLo5Pd",
-      "89021593540:9Pyb_ZSAgvJtXaBCxzPbM6ecXZwxQzismka_k6Yb",
-      "89021593540:w4oe9g4454SZjPiCexhdVHs6ziMHAr1axGceJhz8",
-      "89021593540:5AFou-ZcsdzTAqW7xAsAjTS16kYV7sC9Aq2eNHmt",
-    ],
-    otherlans: [
-      "79916679485:cm9sfaBNCg8-wEgUGJxZABnNYpMEwtQ2ZKUyGbK4",
-      "79916679485:RvghSMSxb7rarch8xKSF1N2XksajUHF2Fx_RZm2x",
-      "79916679485:XM5hxzHw2uyY3S3wnPfZoF2G8FzYem4Sjx9Ryjzj",
-      "79916679485:XbugYuWEbq3cWjwh5wsAUx2xHAGT6TYRZE_uFFLE",
-    ],
-    dds: {
-      bstChannel: "-1001790668593",
-      reportChat: "-1001812737414",
-      reportChannel: "-1001831548372",
-      bstChat: "-1001648748431",
-      mswBstChannel: "-1001700159175",
-      mswReportChat: "-1001523814781",
-      mswReportChannel: "-1001743027571",
-      mswBstChat: "-1001629362479",
-    },
+ "keys":
+  {
+    "lans": [
+             "79021593540:RL_BeyWuK9Yqx9uzT87xAeAg9FPes719Es1NZM9r", 
+             "89021593540:yb46up2p7zLZxm_HKTTtZ6xGeLxwfg5A1i4yXJRU",
+             "89021593540:WnegfnxMkUcy42y5N5zLsG5N-5-H5-ddzp38vsGY",
+             "89021593540:AaqZQJgqmajvhtzSMbwU6BK-9M2fgYeE9xyLo5Pd",
+             "89021593540:9Pyb_ZSAgvJtXaBCxzPbM6ecXZwxQzismka_k6Yb",
+             "89021593540:w4oe9g4454SZjPiCexhdVHs6ziMHAr1axGceJhz8",
+             "89021593540:5AFou-ZcsdzTAqW7xAsAjTS16kYV7sC9Aq2eNHmt",
+             "79916679485:cm9sfaBNCg8-wEgUGJxZABnNYpMEwtQ2ZKUyGbK4",
+             "79916679485:RvghSMSxb7rarch8xKSF1N2XksajUHF2Fx_RZm2x",
+             "79916679485:XM5hxzHw2uyY3S3wnPfZoF2G8FzYem4Sjx9Ryjzj",
+             "79916679485:XbugYuWEbq3cWjwh5wsAUx2xHAGT6TYRZE_uFFLE"
+            ],
+    "dds": {
+        "bstChannel": "-1001700159175",
+        "reportChat": "-1001523814781",
+        "reportChannel": "-1001743027571",
+        "bstChat": "-1001629362479"
+    }
   },
-  historyOverLimits: {
-    raportChat: 100,
-    bstChannel: 50,
-  },
+ "historyOverLimits": {
+   "raportChat": 100,
+   "bstChannel": 50
+ }
 }
