@@ -30,10 +30,14 @@
       "79916679485:XbugYuWEbq3cWjwh5wsAUx2xHAGT6TYRZE_uFFLE"
     ],
     "dds": {
-        "bstChannel": "-1001700159175",
-        "reportChat": "-1001523814781",
-        "reportChannel": "-1001743027571",
-        "bstChat": "-1001629362479"
+        "bstChannel": "-1001790668593",
+        "reportChat": "-1001648748431",
+        "reportChannel": "-1001831548372",
+        "bstChat": "-1001812737414",
+        "mswBstChannel": "-1001700159175",
+        "mswReportChat": "-1001523814781",
+        "mswReportChannel": "-1001743027571",
+        "mswBstChat": "-1001629362479"
     }
   },
  "historyOverLimits": {
