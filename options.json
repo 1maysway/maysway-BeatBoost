@@ -41,16 +41,16 @@
     },
     "actions": {
         "comment": {
-            "chance": 0.18
+            "chance": 0.1
         },
         "clickLike": {
             "chance": 0.35
         },
         "clickSubtitles": {
-            "chance": 0.19
+            "chance": 0.15
         },
         "changeVolume": {
-            "chance": 0.7,
+            "chance": 0.65,
             "from":0.2,
             "to":1
         },
@@ -58,7 +58,7 @@
             "chance": 0.8
         },
         "clickDescriptionLink": {
-            "chance": 0.22
+            "chance": 0.2
         },
         "pauseVideo": {
             "chance": 0.85
