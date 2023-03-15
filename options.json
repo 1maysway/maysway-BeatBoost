@@ -1,6 +1,6 @@
 {
     "version": {
-        "version": "1.2.4"
+        "version": "1.2.5"
     },
     "ariaLabelsForLike": {
         "labels": ["Видео", "Video", "Відео", "понравилось", "Like", "Подобається"]
