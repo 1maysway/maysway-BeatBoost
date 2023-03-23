@@ -62,6 +62,15 @@
         },
         "pauseVideo": {
             "chance": 0.85
+        },
+        "clickChannel": {
+            "chance": 0.25
+        },
+        "clickVideoFromChannel":{
+            "chance": 0.5
+        },
+        "clickLinkFromChannel":{
+            "chance": 0.2
         }
     },
     "comments": [
